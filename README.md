@@ -1,6 +1,6 @@
 # 🐍Classic Snake Game Project | Day 20- 100 Days of Python
 
-## A recreation of the classic *Snake* arcade game made using python and its *turtle* graphics library.<br><br> Only snake lovers are allowed to go further in the README
+## A recreation of the classic *Snake* game made using python and its *turtle* graphics library.<br><br> Only snake lovers are allowed to go further in the README
 ... nah, just kidding!
 
 ----
