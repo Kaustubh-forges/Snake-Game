@@ -12,7 +12,7 @@
 - Snake grows each time it eats... as it should
 - Game ends if snake hits wall or itself
 - Score is tallied each round
-- High score gets stored in a text file
+- High score gets stored in a text file called `data.txt`
 ----
 ### 🎮**Controls**
 - `⬆️` - Move Up
