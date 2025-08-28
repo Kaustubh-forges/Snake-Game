@@ -27,7 +27,7 @@
 2. Navigate to the project folder:
    ```bash
    git clone https://github.com/Kaustubh-forges/Snake-Game.git
-   cd "Snake Game" 
+   cd Snake-Game
    python snake_game.py
    ```
 3. You can also run the code in an IDLE such as Visual Studio Code or PyCharm
