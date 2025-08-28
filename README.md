@@ -26,7 +26,7 @@
 1. Open a terminal  
 2. Navigate to the project folder:
    ```bash
-   git clone https://github.com/Kaustubh-forges/Pong-Arcade.git
+   git clone https://github.com/Kaustubh-forges/Snake-Game.git
    cd "Snake Game" 
    python snake_game.py
    ```
